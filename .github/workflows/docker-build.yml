@@ -44,5 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: True
-          on: push
           tags: pixelpotato/python-helloworld:latest
