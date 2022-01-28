@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: True
-          tags: himanshi7:latest
+          tags: himanshi7/go-helloworld:latest
