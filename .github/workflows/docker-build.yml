@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: True
-          tags: pixelpotato:latest
+          tags: himanshi7:latest
